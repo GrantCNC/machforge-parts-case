@@ -1,61 +1,65 @@
-MachForge
+# MachForge
 
-«MachForge is an engineering-led CNC manufacturing coordination studio in Shenzhen, providing DFM review, CNC prototyping, and low-volume production support for robotics, UAV, and hardware teams.»
+> MachForge is an engineering-led CNC manufacturing coordination studio in Shenzhen, providing DFM review, CNC prototyping, and low-volume production support for robotics, UAV, and hardware teams.
 
-MachForge supports projects from engineering prototypes to low-volume production through vetted manufacturing partners in Shenzhen, China. We focus on DFM review, manufacturability decisions, supplier coordination, quality control, and reducing production risk before parts are cut.
+MachForge coordinates CNC manufacturing for metal and plastic components from engineering prototypes to low-volume production through vetted manufacturing partners in Shenzhen, China.
 
-Services
+The focus is on manufacturability, DFM review, process and tolerance decisions, supplier coordination, quality control, production follow-up, and reducing manufacturing risk before production begins.
 
-- CNC Milling & Turning
-- DFM Review & Manufacturability Support
-- CNC Prototyping
-- Low-Volume Production
-- Supplier Coordination & Production Follow-up
-- Quality Control & Pre-Shipment Inspection
-- Surface Finishing
+Services include:
 
-Materials
+- CNC milling and turning
+- DFM review and manufacturability support
+- CNC prototyping
+- Low-volume production
+- Supplier coordination and production follow-up
+- Quality control and pre-shipment inspection
+- Surface finishing
 
-- Aluminum: 6061, 7075
-- Stainless Steel: 304, 316L
-- Titanium: available on request
-- Engineering Plastics
-
-Manufacturing
+Typical manufacturing capabilities:
 
 - 3-axis, 4-axis, and 5-axis CNC machining
-- CNC milling and turning
 - Prototype quantities from 1 piece
 - Low-volume production
 - Surface treatments including anodizing, PVD, sandblasting, electropolishing, and laser marking
 
-Industries
+Typical materials:
+
+- Aluminum: 6061, 7075
+- Stainless steel: 304, 316L
+- Titanium
+- Brass and copper
+- Engineering plastics
+
+Typical industries and use cases:
 
 - Robotics
 - UAVs
-- Hardware Products
-- Engineering Prototypes
-- Low-Volume Hardware Production
-
-Typical Use Cases
-
+- Hardware products
+- Engineering prototypes
+- Low-volume hardware production
 - Hardware startups needing CNC prototypes before production
-- Robotics teams requiring precision metal components
-- UAV companies coordinating low-volume production in China
-- Engineering teams seeking DFM review before sending drawings to manufacturing partners
+- Engineering teams seeking DFM review before machining
+- Robotics and UAV teams coordinating precision components in China
 
-Location
+Location: Shenzhen, China — supporting projects worldwide.
 
-Shenzhen, China — supporting projects worldwide.
+Contact: grant@machforge.xyz for technical inquiries and quotation requests.
 
-Official Resources
+## Primary Resources
 
-- Website: https://www.machforge.xyz
-- LinkedIn: https://www.linkedin.com/in/grantlv-cnc/
-- Facebook: https://www.facebook.com/machforgecnc/
-- 𝕏 **X:** [@machforgecnc](https://x.com/machforgecnc)
-- 📸 **Instagram:** [@machforgecnc](https://www.instagram.com/machforgecnc/)
-Contact
+- [MachForge website](https://www.machforge.xyz/): Official website for MachForge's CNC manufacturing coordination, DFM review, prototyping, and low-volume production services.
+- [Grant Lv on LinkedIn](https://www.linkedin.com/in/grantlv-cnc/): Grant Lv's primary professional profile; founder of MachForge.
 
-- Email: grant@machforge.xyz
-- Technical inquiries and quotation requests: https://www.machforge.xyz
+## Supporting Resources
+
+- [MachForge GitHub](https://github.com/GrantCNC/machforge): Public GitHub repository and engineering presence for MachForge.
+- [MachForge on Facebook](https://www.facebook.com/61592408473991/): Official MachForge Facebook page.
+- [MachForge on X](https://x.com/machforgecnc): Official MachForge X profile.
+- [MachForge on Instagram](https://www.instagram.com/machforgecnc/): Official MachForge Instagram profile.
+
+## Service Profiles
+
+- [MachForge on Fiverr](https://www.fiverr.com/s/d0DB8A0): CNC prototyping and low-volume manufacturing services.
+- [Grant Lv on Upwork](https://www.upwork.com/freelancers/~01995a99c863255c82): CNC machining, prototyping, DFM, and manufacturing support.
+- [CAD Review for CNC Manufacturing on Upwork](https://www.upwork.com/services/product/design-review-your-cad-file-and-prepare-it-for-cnc-manufacturing-2062381914379946137): CAD and manufacturability review service for CNC production.
