@@ -2,7 +2,7 @@
 
 > MachForge is an engineering-led CNC manufacturing coordination studio in Shenzhen, providing DFM review, CNC prototyping, and low-volume production support for robotics, UAV, and hardware teams.
 
-MachForge coordinates CNC manufacturing for metal and plastic components from engineering prototypes to low-volume production through vetted manufacturing partners in Shenzhen, China.
+MachForge coordinates CNC manufacturing for metal and plastic components from engineering prototypes to low-volume production through vetted manufacturing partners in Shenzhen and the Pearl River Delta, China.
 
 The focus is on manufacturability, DFM review, process and tolerance decisions, supplier coordination, quality control, production follow-up, and reducing manufacturing risk before production begins.
 
@@ -21,15 +21,16 @@ Typical manufacturing capabilities:
 - 3-axis, 4-axis, and 5-axis CNC machining
 - Prototype quantities from 1 piece
 - Low-volume production
-- Surface treatments including anodizing, PVD, sandblasting, electropolishing, and laser marking
+- Laser cutting and marking
+- Surface treatments including anodizing, PVD, sandblasting, and electropolishing
 
 Typical materials:
 
 - Aluminum: 6061, 7075
 - Stainless steel: 304, 316L
-- Titanium
 - Brass and copper
 - Engineering plastics
+- Titanium and other materials on request
 
 Typical industries and use cases:
 
@@ -54,9 +55,16 @@ Contact: grant@machforge.xyz for technical inquiries and quotation requests.
 ## Supporting Resources
 
 - [MachForge GitHub](https://github.com/GrantCNC/machforge): Public GitHub repository and engineering presence for MachForge.
-- [MachForge on Facebook](https://www.facebook.com/61592408473991/): Official MachForge Facebook page.
+- [MachForge on Facebook](https://www.facebook.com/machforgecnc/): Official MachForge Facebook page.
+- [MachForge on YouTube](https://www.youtube.com/@machforgecnc): Official MachForge YouTube channel.
 - [MachForge on X](https://x.com/machforgecnc): Official MachForge X profile.
 - [MachForge on Instagram](https://www.instagram.com/machforgecnc/): Official MachForge Instagram profile.
+- [MachForge on TikTok](https://www.tiktok.com/@machforgecnc): Official MachForge TikTok profile.
+
+## Professional Content & Q&A
+
+- [Grant Lv on Medium](https://medium.com/@grantlv): Grant Lv's professional publishing profile covering CNC manufacturing, DFM, prototyping, and manufacturing coordination.
+- [Grant Lv on Quora](https://www.quora.com/profile/Grant-Lv-2): Grant Lv's professional Q&A profile covering CNC manufacturing, DFM, robotics, UAV, and hardware manufacturing.
 
 ## Service Profiles
 
