@@ -17,7 +17,7 @@ We support hardware teams with DFM review, supplier coordination, quality contro
 
 ## 🌐 Official Website
 
-**MachForge:** [machforge.xyz](https://machforge.xyz/)
+**MachForge:** [machforge.xyz](https://www.machforge.xyz/)
 
 ## ⚙️ Services
 
